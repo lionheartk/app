@@ -114,10 +114,10 @@ a{-webkit-transition:all 0s ease-in-out;-moz-transition:all 0s ease-in-out;-o-tr
 .aeptbl-table__features-item-mobile{display:block;font-size:14px;line-height:1.2em;color:#3a3a3a;margin-bottom:0!important;margin-left:0!important;position:relative;font-size:16px!important;text-align:center;list-style-type:none;font-weight:100;}
 .aeptbl-table__column-button{border-right:1px solid #dcdcdc!important;border-bottom:1px solid #dcdcdc!important;width:30%!important;vertical-align:middle;padding:0 10px;border-left:none;border-top:none;text-align:left;}
 .aeptbl-table__column-button .aawp-button.aawp-button--buy{font-size:14px;line-height:1.1em;letter-spacing:.4px;font-weight:700;width:180px;margin:auto;padding:12px 0!important;box-shadow:3px 3px 6px 0 rgba(0,0,0,.3);border-bottom:4px solid #a74324!important;height:auto;}
-.aeptbl-table__column-button .aawp-button.aawp-button--buy::before{content:"Confira o PreÃ§o â†’";}
+.aeptbl-table__column-button .aawp-button.aawp-button--buy::before{content:"Confira o Preço";}
 .aeptbl-table__column-image.custo-beneficio:after,.aeptbl-table__column-image.custo-beneficio:before,.aeptbl-table__column-image.melhor-escolha:after,.aeptbl-table__column-image.melhor-escolha:before{visibility:visible;margin-bottom:15px;}
 .aeptbl-table__column-image.melhor-escolha:before{content:'Melhor Escolha';}
-.aeptbl-table__column-image.custo-beneficio:before{content:'Custo BenefÃ­cio';}
+.aeptbl-table__column-image.custo-beneficio:before{content:'Custo Benefício';}
 .aeptbl-table__column-image.custo-beneficio,.aeptbl-table__column-image.melhor-escolha{padding-top:30px;}
 .aeptbl-table__column-product.custo-beneficio .aeptbl-table__column-title,.aeptbl-table__column-product.melhor-escolha .aeptbl-table__column-title{padding:20px 0 2px!important;}
 .aeptbl-table__column-features.custo-beneficio .aeptbl-table__features-item-mobile,.aeptbl-table__column-features.melhor-escolha .aeptbl-table__features-item-mobile{margin-top:10px;}
@@ -141,7 +141,7 @@ a{-webkit-transition:all 0s ease-in-out;-moz-transition:all 0s ease-in-out;-o-tr
 .produto-box .pro_cons_list ul{margin:0 0 40px;}
 .produto-box .pro_cons_list ul li{border-bottom:1px solid #ececec;padding:10px 0;list-style:none;padding-left:48px;}
 .produto-box .pro_cons_list ul li:before{margin-right:10px;margin-left:-24px;}
-.produto-box .pro_cons_list.pros ul li:before{content:'âœ“';color:#09b058;}
+.produto-box .pro_cons_list.pros ul li:before{content:'✓';color:#09b058;}
 .produto-box .pro_cons_list.cons ul li:before{content:'X';color:#fe5e63;}
 .produto-box h3{font-size:1.6em;font-weight:700;}
 .produto-box .aawp{border:0;}
