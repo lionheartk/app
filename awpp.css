@@ -50,6 +50,9 @@ a{-webkit-transition:all 0s ease-in-out;-moz-transition:all 0s ease-in-out;-o-tr
 .ambxtb-table__column-button .ambx-button.ambx-button--buy::before{content:"Confira o Preço";}
 .ambxtb-table__column-image.custo-beneficio:after,.ambxtb-table__column-image.custo-beneficio:before,.ambxtb-table__column-image.melhor-escolha:after,.ambxtb-table__column-image.melhor-escolha:before{visibility:visible;margin-bottom:15px;}
 .ambxtb-table__column-image.melhor-escolha:before{content:'Melhor Escolha';}
+.ambxtb-table__column-image.melhor-escolha {border-top: 1px solid #dcdcdc!important;}
+.ambxtb-table__column-product.melhor-escolha {border-top: 1px solid #dcdcdc!important;}
+.ambxtb-table__column-button.melhor-escolha {border-top: 1px solid #dcdcdc!important;}
 .ambxtb-table__column-image.custo-beneficio:before{content:'Custo Benefício';}
 .ambxtb-table__column-image.custo-beneficio,.ambxtb-table__column-image.melhor-escolha{padding-top:30px;}
 .ambxtb-table__column-product.custo-beneficio .ambxtb-table__column-title,.ambxtb-table__column-product.melhor-escolha .ambxtb-table__column-title{padding:20px 0 2px!important;}
