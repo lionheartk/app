@@ -315,10 +315,6 @@
 		padding-top: 30px;
 		border-top: 1px solid #dcdcdc!important
 	}
-	.ambxtb-table__column-features.melhor-escolha {
-		padding-top: 30px;
-		border-top: 1px solid #dcdcdc!important
-	}
 	.ambxtb-table__column-product.custo-beneficio .ambxtb-table__column-title,
 	.ambxtb-table__column-product.melhor-escolha .ambxtb-table__column-title {
 		padding: 20px 0 2px!important;
@@ -326,6 +322,9 @@
 	.ambxtb-table__column-features.custo-beneficio .ambxtb-table__features-item-mobile,
 	.ambxtb-table__column-features.melhor-escolha .ambxtb-table__features-item-mobile {
 		margin-top: 10px;
+	}
+	.ambxtb-table__column-features.melhor-escolha {
+		border-top: 1px solid #dcdcdc!important
 	}
 	.ambx .ambx-product {
 		border: 0;
