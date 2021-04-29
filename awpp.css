@@ -322,6 +322,7 @@
 	.ambxtb-table__column-features.custo-beneficio .ambxtb-table__features-item-mobile,
 	.ambxtb-table__column-features.melhor-escolha .ambxtb-table__features-item-mobile {
 		margin-top: 10px;
+		border-top: 1px solid #dcdcdc!important
 	}
 	.ambx .ambx-product {
 		border: 0;
